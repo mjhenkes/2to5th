@@ -1,6 +1,6 @@
 ## Shakespeare engineering impact
 
-As it turns out you aren't going to make much of an impact writing the [shakespeare language](http://shakespearelang.sourceforge.net/report/shakespeare/shakespeare.html#tex2html7).
+As it turns out you aren't going to make much of an impact writing the [shakespeare language](http://shakespearelang.sourceforge.net/report/shakespeare/shakespeare.html).
 
 
 ## How do I run this thing?
